@@ -7,7 +7,7 @@ a{
 }
  a:hover {
      text-decoration: none;
-     color:#0c5adb;
+     color:#00a3a2;
 }
  body {
      color: #777777;
@@ -410,10 +410,10 @@ p.form-messege{
      text-transform: capitalize;
 }
  .widget_categories ul li:hover:before, .widget_archive ul li:hover:before, .widget_categories ul li a:hover, .widget_archive ul li a:hover, .tagcloud a:hover, .r-post-content h3:hover, .r-post-content h3 a:hover {
-     color: #0c5adb;
+     color: #21325f;
 }
  .tagcloud a:hover {
-     background: #0c5adb;
+     background: #21325f;
      color: #fff;
 }
  #wp-calendar caption {
@@ -7099,6 +7099,7 @@ p.form-messege{
  img {
      max-width: 100%;
      height: auto;
+     width: 250px;
 }
 /* box layout */
  .box.wrapper {
@@ -7122,7 +7123,7 @@ p.form-messege{
      display: none;
 }
  .solutech-header-top {
-     background: #0c5adb;
+     background: #00247e;
      padding: 10px 0;
      padding-right: 200px;
      padding-left: 200px;
@@ -7625,7 +7626,7 @@ p.form-messege{
      transition: .3s;
 }
  .solutech_nav_area.prefix, .hbg2 {
-     background:#153d7a;
+     background:#00247e;
 }
  .solutech_nav_area.prefix .solutech_menu > ul > li > a {
      color:#fff;
@@ -7781,7 +7782,7 @@ p.form-messege{
      font-size: 17px;
      margin-left: 20px;
      font-weight: 500;
-     background-color: #0c5adb;
+     background-color: #25D366;
      border-radius: 30px;
      color: #fff;
      padding: 13px 25px;
